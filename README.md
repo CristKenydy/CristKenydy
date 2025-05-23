@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @CristKenydy
-- 👀 I’m interested in creating my own game engine, it named "**ZNSO Engine**"
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Crist Kenydy
 
-<!---
-CristKenydy/CristKenydy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @CristKenydy  
+- 👀 I’m interested in creating my own game engine, it named "**ZNSO Engine**"
+
+## About ZNSO Engine
+
+ZNSO Engine is my personal project to build a custom game engine from scratch.  
+The goal is to create a flexible, powerful, and user-friendly engine for game development.
+
+## Features
+
+- Modular architecture  
+- Support for 2D and 3D rendering  
+- Custom editor tools  
+- Cross-platform support (planned)  
+
+## Getting Started
+
+Instructions to clone the repository and start using the engine or contribute.
+
+```bash
+git clone https://github.com/CristKenydy/ZNSO-Engine.git
