@@ -21,7 +21,7 @@ Instructions to clone the repository and start using the engine or contribute.
 
 ```bash
 git clone https://github.com/CristKenydy/ZNSO-Engine.git
-
+```
 # Contributing
 
 I’m looking for passionate developers to collaborate and help grow ZNSO Engine.
@@ -29,3 +29,5 @@ If you’re interested in contributing, feel free to reach out!
 
 # Contact
 - Email: znsocorporation@outlook.com
+  
+_Thanks for visiting! Looking forward to building something amazing together._
