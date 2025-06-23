@@ -5,7 +5,7 @@
 
 # Here are the projects I’m currently working on
 
-> ## 1. ZNSO Engine
+## 1. ZNSO Engine
 > 
 > ZNSO Engine is my personal project to build a custom game engine from scratch.  
 > The goal is to create a flexible, powerful, and user-friendly engine for game development.
@@ -17,7 +17,7 @@
 > - Custom editor tools  
 > - Cross-platform support (planned)  
 
-> ## 2. ZNSO Notepad
+## 2. ZNSO Notepad
 >
 > ZNSO Notepad can be create a fast-note and viewable controls
 > * TextEdit               you can write text in it.
@@ -32,9 +32,15 @@
 
 Instructions to clone the repository and start using the engine or contribute.
 
-```bash
-git clone https://github.com/CristKenydy/ZNSO-Engine.git
-```
+### ZNSO Engine:
+> ```bash
+> git clone https://github.com/CristKenydy/ZNSO-Engine.git
+> ```
+
+> ### ZNSO Notepad:
+> ```bash
+> git clone https://github.com/CristKenydy/ZNSO-Notepad.git
+> ```
 # Contributing
 
 I’m looking for passionate developers to collaborate and help grow ZNSO Engine.
