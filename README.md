@@ -37,7 +37,7 @@ Instructions to clone the repository and start using the engine or contribute.
 > git clone https://github.com/CristKenydy/ZNSO-Engine.git
 > ```
 
-> ### ZNSO Notepad:
+### ZNSO Notepad:
 > ```bash
 > git clone https://github.com/CristKenydy/ZNSO-Notepad.git
 > ```
